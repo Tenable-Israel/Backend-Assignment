@@ -1,7 +1,7 @@
 # Social Media Recommendation System API
 
-# As part of your hiring process, we have an assignment for you. 
-# You will be tasked with building a new Rest API python endpoint that interacts with a graph database. 
+As part of your hiring process, we have an assignment for you. 
+You will be tasked with building a new Rest API python endpoint that interacts with a graph database. 
 
 ## Scene
 
