@@ -26,7 +26,6 @@ services:
     volumes:
       - ./data:/data
       - ./backups:/backups
-      - ./backend/tests/test_db:/var/lib/neo4j/import
     networks:
       - app_network
 
