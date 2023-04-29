@@ -21,3 +21,11 @@ So for example if User1 likes soccer, and User2 also likes soccer, they are pote
 - The application should be well-documented, with clear comments and explanation of the code.
 - The code should be well-structured, following best practices for Python development.
 - The application should be able to handle errors and edge cases gracefully.
+
+
+## How to run:
+- To run the tests just run ./run_api_tests.sh
+- To run as "Production" run ./run_app.sh
+
+## Test db
+![Screenshot](./backend/tests/test_db/graph-3.png)
